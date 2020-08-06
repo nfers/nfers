@@ -1,11 +1,12 @@
 
 <div align="center">
   
-# Nayara Ferreira👋
- 
- </div
+# Nayara Ferreira 💻
+
+#### Software Developer
+</div
   
-### Software Developer
+
 
 <br />
 <br />
