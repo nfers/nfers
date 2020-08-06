@@ -5,8 +5,6 @@
 
 #### Software Developer
 </div
-  
-
 
 <br />
 <br />
@@ -16,9 +14,7 @@
 - 🔭 I’m currently working on <a href="https://tron.com.br">**Tron Informática**</a>
 <br />
 
-
-
-
+![Nfers github stats](https://github-readme-stats.vercel.app/api?username=nfers&show_icons=true&theme=radical)
   
 [![Linkedin Badge](https://img.shields.io/badge/-nfers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayferreira/)](https://www.linkedin.com/in/nayferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayza.ocr@gmail.com)](mailto:ncy.fers@gmail.com)
@@ -27,3 +23,6 @@
 [![Github Badge](https://img.shields.io/badge/-nfers-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nfers)](https://github.com/nfers)
 
 </div>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/nfers/github-readme-stats)
+--!>
