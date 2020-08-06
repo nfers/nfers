@@ -11,13 +11,14 @@
 <br />
 <br />
 
+<div align="center">
 
 - 🔭 I’m currently working on <a href="https://tron.com.br">**Tron Informática**</a>
 <br />
 
 
 
-<div align="justify">
+
   
 [![Linkedin Badge](https://img.shields.io/badge/-nfers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayferreira/)](https://www.linkedin.com/in/nayferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayza.ocr@gmail.com)](mailto:ncy.fers@gmail.com)
