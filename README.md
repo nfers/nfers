@@ -15,6 +15,10 @@
 <br />
 
 ![Nfers github stats](https://github-readme-stats.vercel.app/api?username=nfers&show_icons=true&theme=radical)
+
+<h4>Top Languages:</h4>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&theme=blue-green)
   
 [![Linkedin Badge](https://img.shields.io/badge/-nfers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayferreira/)](https://www.linkedin.com/in/nayferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-ncy.fers@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ncy.fers@gmail.com)](mailto:ncy.fers@gmail.com)
