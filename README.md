@@ -24,15 +24,14 @@
 
 <h4>Top Languages:</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&theme=blue-green)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52d0fa,4dfcff,c64dff&theme=graywhite)
 
 </div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/nfers/github-readme-stats)
 --!>
 
-<div align="center">
+<div  style="background-color: #52d0fa;" align="center" >
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
