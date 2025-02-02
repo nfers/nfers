@@ -1,58 +1,44 @@
+# Olá, eu sou o Nfers! 👋
 
-<div align="center">
-  
-# Nayara Ferreira 💻
+👨‍💻 Desenvolvedora apaixonada por tecnologia e inovação.  
+🚀 Focado em criar soluções práticas e eficientes.  
+🌍 Aprendendo e compartilhando conhecimento todos os dias.
 
-#### Senior Software Developer ###
-</div
+## 🛠️ Tecnologias e Ferramentas
 
-<br />
-<br />
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-FF6F00?style=flat&logo=github-actions&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-<div align="center">
-<br />
+## 📊 Estatísticas do GitHub
 
-[![Linkedin Badge](https://img.shields.io/badge/-nfers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayferreira/)](https://www.linkedin.com/in/nayferreira/)
-[![Gmail Badge](https://img.shields.io/badge/-ncy.fers@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ncy.fers@gmail.com)](mailto:ncy.fers@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@naay_fers-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/naay_fers)](https://twitter.com/naay_fers) 
-[![Instagram Badge](https://img.shields.io/badge/-@dev.nfers-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.nfers/?hl=pt-br)](https://www.instagram.com/dev.nfers/?hl=pt-br)
-[![Github Badge](https://img.shields.io/badge/-nfers-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nfers)](https://github.com/nfers)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nfers&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&layout=compact&theme=radical)
 
-![Nfers github stats](https://github-readme-stats.vercel.app/api?username=nfers&show_icons=true&theme=radical)
+🚧 **Em construção** 🚧  
+Estou trabalhando duro para trazer projetos incríveis aqui em breve! Enquanto isso, sinta-se à vontade para explorar meus repositórios abaixo. 👇
 
-<h4>Top Languages:</h4>
+- **[Gestão de Assinaturas - plataform-assign-group](https://github.com/nfers/ms-plataform-assign-group)** - Grupo de microserviços de gestão de assinaturas através de mensageria
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52d0fa,4dfcff,c64dff&theme=graywhite)
 
-</div>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfers&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/nfers/github-readme-stats)
---!>
+## 📫 Como me encontrar
 
-<div  style="background-color: #52d0fa;" align="center" >
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/embarcadero/embarcadero-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  
-  </div>
+- LinkedIn: https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/nayferreira
+- Portfólio: (🚧 **Em construção** 🚧  )  
+- E-mail: ncy.fers@gmail.com
+
+## 💡 Curiosidades sobre mim
+
+- Adoro resolver problemas complexos.  
+- Sou fã de jogos RPG, música eletrônica e viajar.  
+- Sempre aberta para colaborações e novos desafios!
+
+---
+
+⭐️ Sinta-se à vontade para explorar meus repositórios e contribuir!
