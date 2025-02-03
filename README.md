@@ -1,4 +1,4 @@
-# Olá, eu sou o Nfers! 👋
+# Olá, eu sou o Nayara Ferreira! 👋
 
 👨‍💻 Desenvolvedora apaixonada por tecnologia e inovação.  
 🚀 Focada em criar soluções práticas e eficientes.  
