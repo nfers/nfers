@@ -1,7 +1,7 @@
 # Olá, eu sou o Nfers! 👋
 
 👨‍💻 Desenvolvedora apaixonada por tecnologia e inovação.  
-🚀 Focado em criar soluções práticas e eficientes.  
+🚀 Focada em criar soluções práticas e eficientes.  
 🌍 Aprendendo e compartilhando conhecimento todos os dias.
 
 ## 🛠️ Tecnologias e Ferramentas
